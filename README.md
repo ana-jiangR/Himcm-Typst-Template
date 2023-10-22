@@ -2,7 +2,7 @@
 
 ⚠Warning: This project remains unfinished.
 
-*HIMCM-Typst-Template* provides a template and toolset for HIMCM [High School Mathematical Contest in Modeling](https://www.contest.comap.com/highschool/contests/himcm/index.html) participants to create well-formatted competition papers using _Typst_.
+*HIMCM-Typst-Template* provides a template and toolset for HIMCM [High School Mathematical Contest in Modeling](https://www.contest.comap.com/highschool/contests/himcm/index.html) participants to create well-formatted competition papers using **Typst**.
 
 ## What is Typst?
 https://typst.app/
@@ -13,7 +13,7 @@ https://typst.app/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT** License - see the [LICENSE](LICENSE) file for details.
 
 ## TO DO
 
