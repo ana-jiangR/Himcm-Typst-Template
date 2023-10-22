@@ -1,8 +1,8 @@
-## HIMCM Typst Template
+## HIMCM Typst Template(Under Development)
 
 ⚠Warning: This project remains unfinished.
 
-*HIMCM-Typst-Template* provides a template and toolset for HIMCM [Hig*h School Mathematical Contest in Modeling](https://www.contest.comap.com/highschool/contests/himcm/index.html) participants to create well-formatted competition papers using *Typst*.
+*HIMCM-Typst-Template* provides a template and toolset for HIMCM [High School Mathematical Contest in Modeling](https://www.contest.comap.com/highschool/contests/himcm/index.html) participants to create well-formatted competition papers using _Typst_.
 
 ## What is Typst?
 https://typst.app/
